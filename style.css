@@ -70,7 +70,7 @@ h1 {
 /* Responsiv justering för mobilen */
 @media (max-width: 768px) {
     h1 {
-        font-size: 35vw; /* Ännu större på mobilen för att fylla ut vertikalt */
-        line-height: 0.8;
+        font-size: 22vw; /* Ännu större på mobilen för att fylla ut vertikalt */
+        line-height: 0.75;
     }
 }
